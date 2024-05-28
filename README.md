@@ -45,7 +45,7 @@ Open it on Google Chrome with port3000
 ### Before running the app Setup environment variables    
 Add "DB_URL" variable with the value of your mongoDB connection URL in .env file
   
-Run the front end as mentioned in the readme file:-[ click here](client\README.md)
+Run the front end as mentioned in the readme file:-[ click here](https://github.com/anoopbk123/training-platform-registration/blob/master/client/README.md)
 
 
 
