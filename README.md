@@ -2,12 +2,12 @@
 <h1 align="center">
 
   <br>
-MERN Stack Project - Learning Platform
+Training Platform Registration
   <br>
 
 </h1>
 <p align="center"> 
-    by Jones Tse
+    Using MERN Stack
   </p>
 
 
